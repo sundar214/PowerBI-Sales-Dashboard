@@ -6,15 +6,7 @@ It provides insights into total sales, top products, regional performance, and m
 
 ---
 
-## Screenshots
 
-![Dashboard Overview](Report Page_1.png)
-*Overview of key metrics and trends*
-
-![Data](Report Page_2.png)
-*Detailed data names*
-
----
 
 ## Dataset
 The dashboard uses a sample sales dataset containing:
